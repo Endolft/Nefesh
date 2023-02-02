@@ -1,0 +1,18 @@
+#btn_notifica{
+    background-color: #0f171e;
+}
+#form{
+    margin-top: 20px;
+    background-color: #15212b;
+    border-radius: 15px;
+}
+.aviso{
+ color: rgba(255, 0, 0, 0.733);
+ font-size: 15px;
+ display: flex;
+ justify-content: center;
+}
+
+#h2{
+    font-size: 20px;
+}

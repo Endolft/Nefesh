@@ -1,0 +1,52 @@
+#container-header {
+  background-color: white;
+  height: 100px;
+  position: sticky;
+  top: 0;
+  z-index: 1055;
+  padding: 10px;
+}
+.img-header {
+  height: 80px;
+}
+#offcanvasNavbar {
+  background-color: #253c8c;
+}
+#offcanvasNavbarLabel {
+  color: white;
+  font-size: 30px;
+}
+.nav-item {
+  color: white;
+  margin: 10px;
+  cursor: pointer;
+}
+.offcanvas-body {
+  padding: 20px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  text-shadow: none;
+}
+.navbar-toggler {
+  background-color: #253c8c;
+  border-radius: 15px;
+  padding: 10px;
+  border: solid 4px #e12027;
+}
+span {
+  color: white;
+}
+#button{
+  background-color: white;
+  color:black
+}
+@media (max-width: 770px) {
+  .img-header {
+    height: 60px;
+  }
+  .navbar-toggler {
+  padding: 8px;
+  }
+}
